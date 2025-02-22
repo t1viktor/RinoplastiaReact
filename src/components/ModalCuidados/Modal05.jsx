@@ -54,20 +54,37 @@ export default function Modal03() {
             {card05.h2Modal}
             </p>
 
-            <ul className="cardAlert text-gray-100 list-disc liCardCuidados mx-6 text-left">
+            <ul className="cardAlert text-gray-100 space-y-3 list-disc liCardCuidados mx-6 text-left">
               <h2 className="pModalCuidados">{card05.li01}</h2>
-              <li>{card05.desc01}</li>
-              <li>{card05.desc02}</li>
-              <li>{card05.desc03}</li>
+              <li>{card05.li01Desc01}</li>
+              <li>{card05.li01Desc02}</li>
+              <li>{card05.li01Desc03}</li>
            
             </ul>
 
-            <ul className="cardAlert text-gray-100 list-disc liCardCuidados mx-6 text-left">
+            <ul className="cardAlert text-gray-100 space-y-3 list-disc liCardCuidados mx-6 text-left">
               <h2 className="pModalCuidados">{card05.li02}</h2>
-              <li>{card05.desc04}</li>
-            <li>{card05.desc05}</li>
+              <li>{card05.li02Desc01}</li>
+              <li>{card05.li02Desc02}</li>
+              <li>{card05.li02Desc03}</li>
+           
             </ul>
 
+            <ul className="cardAlert space-y-3 text-gray-100 list-disc liCardCuidados mx-6 text-left">
+              <h2 className="pModalCuidados">{card05.li03}</h2>
+              <li>{card05.li03Desc01}</li>
+              <li>{card05.li03Desc02}</li>
+              <li>{card05.li03Desc03}</li>
+           
+            </ul>
+
+            <ul className="cardAlert space-y-3 text-gray-100 list-disc liCardCuidados mx-6 text-left">
+              <h2 className="pModalCuidados">{card05.li04}</h2>
+              <li>{card05.li04Desc01}</li>
+              <li>{card05.li04Desc02}</li>
+              <li>{card05.li04Desc03}</li>
+           
+            </ul>
             </div>
           </div>
         </div>

@@ -53,15 +53,15 @@ export default function ModalResultados() {
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 semanas</span>
-                  <span className="text-right">Redução do inchaço e desconforto, com melhora gradual do contorno das mamas</span>
+                  <span className="text-right">Redução do inchaço e desconforto, com melhora gradual do formato nasal</span>
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 meses</span>
                   <span className="text-right">Inchaço e hematomas diminuem, com resultados mais visíveis e naturais</span>
                 </div>
                 <div className="flex justify-between py-2">
-                  <span>3-6 meses</span>
-                  <span className="text-right">Resultados finais com mamas firmes, elevadas e cicatrizes mais suaves</span>
+                  <span>6-12 meses</span>
+                  <span className="text-right">Resultados finais com formato nasal harmonioso e cicatrizes mais suaves</span>
                 </div>
               </div>
             </div>
